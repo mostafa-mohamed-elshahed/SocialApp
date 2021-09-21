@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453147143180",
+    "project_id": "jo-chat-e202c",
+    "storage_bucket": "jo-chat-e202c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453147143180:android:67c4349dcb640520e55229",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453147143180-o8lhv7najvchrljs86t9d4k2d6eb4ptr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "4d4fb2eec347baec421a4588d3c67a8dc3cb435c"
+          }
+        },
+        {
+          "client_id": "453147143180-q4751erm9uo605uj8eb73j0j4l5t71i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3X13s7rVgWMX17w1Uqc1h0DzTX4C8M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453147143180-q4751erm9uo605uj8eb73j0j4l5t71i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
